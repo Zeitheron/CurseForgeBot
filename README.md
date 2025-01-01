@@ -28,6 +28,6 @@ Once your translations have been reviewed and merged, they will be included in t
 The translations contributed to this repository are subject to the MIT License. By contributing your translations, you agree to license them under the same terms.
 
 ## Contact
-If you have any questions or need assistance with contributing translations, please join our Discord server at https://discord.gg/gfwpNY8Kkr and ask in there. Our community members will be happy to help you.
+If you have any questions or need assistance with contributing translations, please join our [Discord server](https://minetrack.app/discord) and ask in there. Our community members will be happy to help you.
 
 Thank you for your contributions and helping us make the CurseForge Discord bot accessible to more users around the world!
